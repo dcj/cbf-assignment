@@ -1,6 +1,6 @@
 # cbf-assignment
 
-This is simply a copy of the cbf-assignment project (stubbed out framework) for the [Coursera Introduction to Recommender Systems MOOC](https://class.coursera.org/recsys-001/class/index)
+This is simply a copy of the [cbf-assignment project](https://class.coursera.org/recsys-001/assignment/view?assignment_id=7%20) (a stubbed out framework) for the [Coursera Introduction to Recommender Systems MOOC](https://class.coursera.org/recsys-001/class/index)
 
 ## Running the project
 
